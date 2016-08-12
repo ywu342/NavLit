@@ -1,0 +1,6 @@
+framework module Pods_Navlit {
+  umbrella header "Pods-Navlit-umbrella.h"
+
+  export *
+  module * { export * }
+}
